@@ -70,5 +70,5 @@ names(dts)<-gsub("-std\\(\\)","Std",names(dts))
 #5# From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 library(dplyr)
 tidy_dts <- aggregate(.~subject+activity,data=dts,mean)
-write.table(tidy_dts,"G:/rgit/getclean/tidy_dts.txt")
+write.table(tidy_dts,"G:/rgit/getclean/tidy_dts.txt",row.names=F)
 
