@@ -21,10 +21,10 @@ All measurement variables are the mean of measurements for each subject and acti
  -"timeBodyAccelerometerMeanYaxis"                
  -"timeBodyAccelerometerMeanZaxis"               
  -"timeBodyAccelerometerStdXaxis"  
- -"timeBodyAccelerometerStdYaxis"
+ -"timeBodyAccelerometerStdYaxis"       
  -"timeBodyAccelerometerStdZaxis"   
 
- -"timeGravityAccelerometerMeanXaxis"
+ -"timeGravityAccelerometerMeanXaxis"     
  -"timeGravityAccelerometerMeanYaxis"           
  -"timeGravityAccelerometerMeanZaxis"          
  -"timeGravityAccelerometerStdXaxis"            
@@ -39,12 +39,12 @@ All measurement variables are the mean of measurements for each subject and acti
  -"timeBodyAccelerometerJerkStdYaxis"  
  -"timeBodyAccelerometerJerkStdZaxis"
  
- -"timeBodyGyroscopeMeanXaxis"    
- -"timeBodyGyroscopeMeanYaxis"  
- -"timeBodyGyroscopeMeanZaxis"  
- -"timeBodyGyroscopeStdXaxis"
- -"timeBodyGyroscopeStdYaxis"
- -"timeBodyGyroscopeStdZaxis"
+ -"timeBodyGyroscopeMeanXaxis"      
+ -"timeBodyGyroscopeMeanYaxis"    
+ -"timeBodyGyroscopeMeanZaxis"     
+ -"timeBodyGyroscopeStdXaxis"    
+ -"timeBodyGyroscopeStdYaxis"    
+ -"timeBodyGyroscopeStdZaxis"    
 
 
  -"timeBodyGyroscopeJerkMeanXaxis"                
@@ -67,14 +67,14 @@ All measurement variables are the mean of measurements for each subject and acti
  -"timeBodyGyroscopeMagnitudeStd"
 
  -"timeBodyGyroscopeJerkMagnitudeMean"         
- -"timeBodyGyroscopeJerkMagnitudeStd"  
+ -"timeBodyGyroscopeJerkMagnitudeStd"    
 
  -"frequencyBodyAccelerometerMeanXaxis"           
  -"frequencyBodyAccelerometerMeanYaxis"          
  -"frequencyBodyAccelerometerMeanZaxis"           
  -"frequencyBodyAccelerometerStdXaxis"            
  -"frequencyBodyAccelerometerStdYaxis"           
- -"frequencyBodyAccelerometerStdZaxis"  
+ -"frequencyBodyAccelerometerStdZaxis"    
 
  -"frequencyBodyAccelerometerJerkMeanXaxis"       
  -"frequencyBodyAccelerometerJerkMeanYaxis"      
@@ -83,15 +83,15 @@ All measurement variables are the mean of measurements for each subject and acti
  -"frequencyBodyAccelerometerJerkStdYaxis"       
  -"frequencyBodyAccelerometerJerkStdZaxis"  
 
- -"frequencyBodyGyroscopeMeanXaxis"
+ -"frequencyBodyGyroscopeMeanXaxis"         
  -"frequencyBodyGyroscopeMeanYaxis"            
  -"frequencyBodyGyroscopeMeanZaxis"  
- -"frequencyBodyGyroscopeStdXaxis"  
+ -"frequencyBodyGyroscopeStdXaxis"    
  -"frequencyBodyGyroscopeStdYaxis"               
  -"frequencyBodyGyroscopeStdZaxis"    
 
  -"frequencyBodyAccelerometerMagnitudeMean"       
- -"frequencyBodyAccelerometerMagnitudeStd"   
+ -"frequencyBodyAccelerometerMagnitudeStd"     
 
  -"frequencyBodyAccelerometerJerkMagnitudeMean"   
  -"frequencyBodyAccelerometerJerkMagnitudeStd"  
