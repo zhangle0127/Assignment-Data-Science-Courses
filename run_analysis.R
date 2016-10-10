@@ -47,12 +47,12 @@ head(dts$activity)
 
 #4# Appropriately labels the data set with descriptive variable names.
 # "features_info.txt"
-"accelerometer" tAcc-XYZ
-"gyroscope" tGyro-XYZ. 
-"time" t
-"magnitude" tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag
-"frequency" f
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+#"accelerometer" for Acc
+#"gyroscope" for Gyro 
+#"time" for t
+#"magnitude" for Mag
+#"frequency" for f
+#"Xaxis" "Yaxis" "Zaxis" for X Y Z
 
 # fixed=TURE 不使用 regular expression
 names(dts)<-gsub("[Az]cc","Accelerometer",names(dts))
