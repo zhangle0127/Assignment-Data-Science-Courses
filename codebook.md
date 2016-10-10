@@ -5,14 +5,14 @@ This codebook describes the variables, the data, and works that I performed to c
 ## variables
 
 ### subject and activity
-*Subject:subject ID
-*Activity: activity labels
- +Walking
- +Walking Upstairs
- +Walking Downstairs
- +Sitting
- +Standing
- +Laying
+* Subject:subject ID
+* Activity: activity labels
+ + Walking
+ + Walking Upstairs
+ + Walking Downstairs
+ + Sitting
+ + Standing
+ + Laying
 
 ### Measurement means
 All measurement variables are the mean of measurements for each subject and activity.   
